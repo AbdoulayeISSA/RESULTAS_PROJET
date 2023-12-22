@@ -1,0 +1,703 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    width: 1440px;
+    height: 105px;
+    padding: 10px 198px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    margin: auto; 
+    
+}
+
+
+.menu_navigation {
+display: flex;
+margin: 20px;
+padding-bottom: 0px;
+}
+
+#image {
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+.vide {
+width: 300px;
+}
+
+.place {
+    display: flex;
+    align-items: flex-start;
+    gap: 45px; 
+}
+
+#menu-item {
+color: #2D5298;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal; 
+margin-top: 30px;
+margin-left: 50px;
+}
+
+
+.blog {
+display: flex;
+height: 422px;
+padding: 49px 31px 49.181px 15px;
+align-items: center;
+gap: 45px; 
+}
+
+.Baniere {
+display: flex;
+width: 1440px;
+height: 446px;
+padding: 12px 100px 12px 150px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0; 
+background: #2D5298; 
+margin: auto;
+
+}
+
+.b-dev {
+width: 553px;
+height: 323.819px; 
+}
+
+.element-work {
+color: #FFF;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 200;
+line-height: normal; 
+}
+
+.element {
+color: #FFF;
+font-family: Montserrat;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+.element-xls {
+display: flex;
+width: 194px;
+height: 49px;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px; 
+border-radius: 35px;
+background: #7A96FF;
+text-decoration: none; 
+a {
+    text-decoration: none;
+    color:  #000;
+    gap: 45px;
+}
+}
+
+.lorem-services h3 {
+color: #000;
+font-family: Montserrat;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center; 
+}
+
+.lorem-p {
+color: #000;
+text-align: center;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+padding-left: 260px;
+margin-right: 260px;
+}
+
+.class-p {
+color: #000;
+text-align: center;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+width: 211px;
+}
+
+.Service-1 p{
+color: #000;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+#colum {
+width: 241px;
+height: 371px;
+flex-shrink: 0; 
+border-radius: 6px;
+background: #FFF;
+box-shadow: 0px 4px 9px 0px rgba(0, 0, 0, 0.20);
+} 
+
+ul {
+list-style: none;
+display: flex;
+width: 1044px;
+height: 396px;
+justify-content: space-between;
+align-items: center;
+flex-shrink: 0;
+margin: auto; 
+}
+
+.icon3 {
+width: 64px;
+height: 64px;
+flex-shrink: 0;
+margin: auto;
+}
+
+.Service-1 {
+color: #000;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal; 
+text-align: center;
+}
+
+.service-decouvrir {
+text-align: center;
+display: flex;
+width: 194px;
+height: 47px;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0; 
+border-radius: 35px;
+margin: auto;
+background: #2D549B; 
+
+a {
+    text-decoration: none;
+    color:  #000;
+    gap: 45px;
+}
+.service-decouvrir:hover {
+    color: white;
+}
+}
+
+
+span  {
+text-align: center;
+display: flex;
+width: 300px;
+height: 70px;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0; 
+border-radius: 35px;
+margin: auto;
+background: #2D549B; 
+margin-top: 30px;
+
+a {
+    text-decoration: none;
+    color:  #000;
+    gap: 45px;
+}
+} 
+
+.cool {
+    width: 98px;
+    height: 17px;
+}
+
+.contacts {
+display: flex;
+width: 1440px;
+padding: 54px 341px 76px 340px;
+flex-direction: column;
+align-items: center;
+gap: 49px; 
+background: #F2F6FC;
+margin: auto;
+margin-top: 40px;
+}
+
+.cadre-contact {
+display: flex;
+width: 759px;
+flex-direction: column;
+align-items: center;
+gap: 30px; 
+margin: auto;
+padding-top: auto;
+}
+
+.contact-nous {
+color: #000;
+font-family: Montserrat;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal; 
+
+}
+
+.Nom_prenom {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+    padding-bottom: 55px;
+}
+
+.Nomprenom {
+display: flex;
+width: 759px;
+height: 45px;
+padding: 10px 10px 10px 25px;
+align-items: center;
+gap: 10px; 
+border-radius: 35px;
+border: 1px solid #535353;
+background: #FFF; 
+
+}
+
+.Messages {
+    display: flex;
+    width: 759px;
+    height: 160px;
+    padding: 20px 10px 10px 25px;
+    align-items: flex-start;
+    gap: 10px; 
+    border-radius: 15px;
+    border: 1px solid #535353;
+    background: #FFF; 
+}
+
+.Envoyer {
+display: flex;
+width: 251px;
+height: 58px;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 10px; 
+border-radius: 35px;
+background: #7A96FF;
+margin: auto; 
+}
+
+.droit {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    padding-right: 610px;
+
+}
+
+footer {
+    display: flex;
+    width: 1440px;
+    height: 124px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0; 
+    background: #2D5298;
+    padding-left: 685px;
+    margin-left: 390px;
+}
+
+@media screen and (min-width: 780px) {
+    .full-width-img 
+    margin: auto;
+    width: 90%;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        height: 100%;
+    }
+    
+    header {
+        display: flex;
+        width: 1440px;
+        height: 105px;
+        padding: 10px 198px;
+        justify-content: center;
+        align-items: center;
+        flex-shrink: 0;
+        margin: auto; 
+        
+    }
+    
+    
+    .menu_navigation {
+    display: flex;
+    margin: 20px;
+    padding-bottom: 0px;
+    }
+    
+    #image {
+        margin-left: 50px;
+        margin-right: 50px;
+        
+    }
+    
+    .vide {
+    width: 300px;
+    }
+    
+    .place {
+        display: flex;
+        align-items: flex-start;
+        gap: 45px; 
+    }
+    
+    #menu-item {
+    color: #2D5298;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+    margin-top: 30px;
+    margin-left: 50px;
+    }
+    
+    
+    .blog {
+    display: flex;
+    height: 422px;
+    padding: 49px 31px 49.181px 15px;
+    align-items: center;
+    gap: 45px; 
+    }
+    
+    .Baniere {
+    display: flex;
+    width: 1440px;
+    height: 446px;
+    padding: 12px 100px 12px 150px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0; 
+    background: #2D5298; 
+    margin: auto;
+    
+    }
+    
+    .b-dev {
+    width: 553px;
+    height: 323.819px; 
+    }
+    
+    .element-work {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal; 
+    }
+    
+    .element {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    }
+    
+    .element-xls {
+    display: flex;
+    width: 194px;
+    height: 49px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; 
+    border-radius: 35px;
+    background: #7A96FF;
+    text-decoration: none; 
+    a {
+        text-decoration: none;
+        color:  #000;
+        gap: 45px;
+    }
+    }
+    
+    .lorem-services h3 {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center; 
+    }
+    
+    .lorem-p {
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    padding-left: 260px;
+    margin-right: 260px;
+    }
+    
+    .class-p {
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    width: 211px;
+    }
+    
+    .Service-1 p{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    
+    #colum {
+    width: 241px;
+    height: 371px;
+    flex-shrink: 0; 
+    border-radius: 6px;
+    background: #FFF;
+    box-shadow: 0px 4px 9px 0px rgba(0, 0, 0, 0.20);
+    } 
+    
+    ul {
+    list-style: none;
+    display: flex;
+    width: 1044px;
+    height: 396px;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    margin: auto; 
+    }
+    
+    .icon3 {
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    margin: auto;
+    }
+    
+    .Service-1 {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+    text-align: center;
+    }
+    
+    .service-decouvrir {
+    text-align: center;
+    display: flex;
+    width: 194px;
+    height: 47px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0; 
+    border-radius: 35px;
+    margin: auto;
+    background: #2D549B; 
+    
+    a {
+        text-decoration: none;
+        color:  #000;
+        gap: 45px;
+    }
+    .service-decouvrir:hover {
+        color: white;
+    }
+    }
+    
+    
+    span  {
+    text-align: center;
+    display: flex;
+    width: 300px;
+    height: 70px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0; 
+    border-radius: 35px;
+    margin: auto;
+    background: #2D549B; 
+    margin-top: 30px;
+    
+    a {
+        text-decoration: none;
+        color:  #000;
+        gap: 45px;
+    }
+    } 
+    
+    .cool {
+        width: 98px;
+        height: 17px;
+    }
+    
+    .contacts {
+    display: flex;
+    width: 1440px;
+    padding: 54px 341px 76px 340px;
+    flex-direction: column;
+    align-items: center;
+    gap: 49px; 
+    background: #F2F6FC;
+    margin: auto;
+    margin-top: 40px;
+    }
+    
+    .cadre-contact {
+    display: flex;
+    width: 759px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px; 
+    margin: auto;
+    padding-top: auto;
+    }
+    
+    .contact-nous {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    
+    }
+    
+    .Nom_prenom {
+        color: #000;
+        font-family: Montserrat;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal; 
+        padding-bottom: 55px;
+    }
+    
+    .Nomprenom {
+    display: flex;
+    width: 759px;
+    height: 45px;
+    padding: 10px 10px 10px 25px;
+    align-items: center;
+    gap: 10px; 
+    border-radius: 35px;
+    border: 1px solid #535353;
+    background: #FFF; 
+    
+    }
+    
+    .Messages {
+        display: flex;
+        width: 759px;
+        height: 160px;
+        padding: 20px 10px 10px 25px;
+        align-items: flex-start;
+        gap: 10px; 
+        border-radius: 15px;
+        border: 1px solid #535353;
+        background: #FFF; 
+    }
+    
+    .Envoyer {
+    display: flex;
+    width: 251px;
+    height: 58px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; 
+    border-radius: 35px;
+    background: #7A96FF;
+    margin: auto; 
+    }
+    
+    .droit {
+        color: #FFF;
+        font-family: Montserrat;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal; 
+        padding-right: 610px;
+    
+    }
+    
+    footer {
+        display: flex;
+        width: 1440px;
+        height: 124px;
+        justify-content: center;
+        align-items: center;
+        flex-shrink: 0; 
+        background: #2D5298;
+        padding-left: 685px;
+        margin-left: 390px;
+    }
